@@ -1,1 +1,1 @@
-# Zamato-Clone.github.io
+# Zomato-Clone.github.io
